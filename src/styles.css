@@ -1,6 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
-
-body {
+You can add global styles to this file,
+and also import other style files body {
     padding-bottom: 50px;
 }
 
@@ -11,7 +10,8 @@ body {
 
 /* Animaciones */
 
-.animated {
+
+/* .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
@@ -36,4 +36,4 @@ body {
 
 .fadeIn {
     animation-name: fadeIn;
-}
+} */
