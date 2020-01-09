@@ -7,11 +7,11 @@ and also import other style files body {
     margin-top: 20px;
 }
 
+.img-logo {
+    width: 120px;
+}
 
-/* Animaciones */
-
-
-/* .animated {
+Animaciones .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
@@ -36,4 +36,8 @@ and also import other style files body {
 
 .fadeIn {
     animation-name: fadeIn;
-} */
+}
+
+.biography {
+    text-align: justify;
+}
